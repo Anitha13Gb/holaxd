@@ -19,5 +19,5 @@ describe('ProductComponent', () => {
     expect(component).toBeTruthy();
   });
 });
-/* Erick Reinoso */
+
 
